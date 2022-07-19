@@ -74,5 +74,4 @@ fn main() {
 */
 
 // My Solution
-// Sorry I don't understand anything
-// Tbh i have never used linked lists
+// Under work
